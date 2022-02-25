@@ -1,3 +1,7 @@
+Dies sind meine Lösungen zu den Aufgaben von dem Udemy-Kurs. Die Aufgaben sind auch auf diesre Webseite verfügbar:
+https://oauth2simplified.com/exercises/
+
+
 https://dev-71031260.okta.com/oauth2/default
 
 MetaData
